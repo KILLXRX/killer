@@ -12,7 +12,7 @@ function loadChallenge() {
     document.getElementById("button2").hidden=false
     document.getElementById("answer").hidden=true
     new FunCaptcha({
-        public_key: "A2A14B1D-1AF3-C791-9BBC-EE33CC7A0A6F",
+        public_key: "A4E24C1X-1AJ4-C791-6BBE-QF33CE7A0H6F",
         target_html: "CAPTCHA",
         callback: OnSolve
     });
